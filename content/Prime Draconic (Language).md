@@ -1,4 +1,4 @@
-**Prime Draconic** was the script of the ancient dragon races that ruled [[Atlaaxian System|Atlaaxian System]] in the **Pre-Fusion [[Timeline of Atlaax|Age.]]**
+**Prime Draconic** was the script of the ancient dragon races that ruled over [[Atlaaxian System|Atlaax]] in the **Pre-Fusion [[Timeline of Atlaax|Age.]]**
 
 Prime Draconic is considered the oldest surviving language across the planet, dating back tens of thousands of years. The planet’s name, as well as the name of the moons and suns, have remained unchanged from their Prime Draconic origins.
 
