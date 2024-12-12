@@ -37,7 +37,7 @@ Additionally, the full rings are never visible all at once due to the planet's s
 ![[Pasted image 20241119145414.png]]
 As night goes on, Atlaax's shadow passes across the rings, growing largest at the "midpoint" of night. The view from Delta, at that time: 
 ![[Pasted image 20241119145509.png]]
-For these reasons, timekeeping on the planet is remarkably easy at most points of latitude; one can use a *shadowclock* or simply look at the size of Atlaax's shadow on the rings to determine the rough time of night
+For these reasons, timekeeping on the planet is remarkably easy at most points of latitude; one can use a shadowclock or simply look at the size of Atlaax's shadow on the rings to determine the rough time of night
 
 # Seasons and Shadows
 The planet has only four degrees of axial tilt compared Earth's 24, and therefore has extremely mild axial seasons. However, the planet is also in a far more elliptical (oval-shaped) orbit than Earth. 
