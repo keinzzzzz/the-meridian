@@ -7,5 +7,4 @@ Feel free to read anything or nothing, but I like to reward my dawgs who read (O
 
 Use the Explorer (left) or follow these links to look around:
 
-* [[PC Lore Index]]
 * [[Campaign Index]]

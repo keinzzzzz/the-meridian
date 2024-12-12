@@ -9,14 +9,5 @@ Beyond major settlements, the Meridian is a chaotic land of both incredible beau
 Yet, these riches are not without their obstacles. The wounds of old conflicts and past Calamities still mar the land and sea, infusing them with terrors of all kinds. While one region may be habitable, the next may be swarming with creatures mutated by some ancient magical failure. An amateur would quickly discover that even the land itself can be an enemy; entire biomes have become victims of arcane infestation or long-forgotten wars. Experts of the Meridian's chaotic nature would likely agree that routes outside the beaten path may be unpopular for good reason.
 
 
-  
-  
 
-[[Timeline of Atlaax]]
-
-[[Continents]]
-
-[[Religious Organizations]]
-
-[[Pantheon]]
 #DND
