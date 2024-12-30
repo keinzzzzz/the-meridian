@@ -12,7 +12,7 @@ You've likely known this information since childhood.
 	* [[Shroud]]
 * [[Great Fusion]]
 * [[Thousand Days' War]]
-	* [[The Splitlock]]
+	* [[Splitlock]]
 ### Specific Information
 Depending on your birthplace, age, or worldliness, you may be studied on this information but will at least have heard of it.
 * [[Prime Draconic (Language)]] (known by most spellcasters)
