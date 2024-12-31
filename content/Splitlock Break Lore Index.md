@@ -9,7 +9,6 @@ You've likely known this information since childhood.
 * [[The Meridian]]
 	* [[Altinin]]
 	* [[Evernight]]
-	* [[Shroud]]
 * [[Great Fusion]]
 * [[Thousand Days' War]]
 	* [[Splitlock]]
@@ -18,5 +17,6 @@ Depending on your birthplace, age, or worldliness, you may be studied on this in
 * [[Prime Draconic (Language)]] (known by most spellcasters)
 * [[Calamity]]
 * [[Primeworld]]
+* [[Shroud]]
 
 Any linked notes not listed in this index can be considered supplemental: unnecessary to know but cool to know.
