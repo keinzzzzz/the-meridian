@@ -8,15 +8,17 @@ You've likely known this information since childhood.
 * [[Atlaaxian System]]
 * [[The Meridian]]
 	* [[Altinin]]
-	* [[Evernight]]
-* [[Great Fusion]]
-* [[Thousand Days' War]]
-	* [[Splitlock]]
+* [[Calamity]]
+	* [[Great Fusion]]
+	* [[Thousand Days' War]]
+		* [[Splitlock]]
+* 
 ### Specific Information
 Depending on your birthplace, age, or worldliness, you may be studied on this information but will at least have heard of it.
 * [[Prime Draconic (Language)]] (known by most spellcasters)
-* [[Calamity]]
 * [[Primeworld]]
+	* [[Earth]]
 * [[Shroud]]
+* [[Evernight]]
 
 Any linked notes not listed in this index can be considered supplemental: unnecessary to know but cool to know.

@@ -1,0 +1,1 @@
+The **Quarantine Nation of Atra,** known coloquially as **Atra,** is a state almost entirely undisturbed by other nations across [[Altinin]] due to the ever-present threat of the [[Scarabs|scarabs]] that roam the sterile [[Crystal Barrens]]. Atra is the sole exporter of [[Ocrys|ocrys,]] which is grown near its capital city [[Delta|Delta.]] People from Atra are known as *Atrans.*

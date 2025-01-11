@@ -1,1 +1,0 @@
-**Earth** was one of the [[Primeworld|primeworlds]] that predated the [[Great Fusion]] and the [[Timeline of Atlaax|Ages.]]

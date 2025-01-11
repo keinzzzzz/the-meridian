@@ -1,0 +1,1 @@
+The **Grand Duchy of Ralaaxir,** known coloquially as **Ralaaxir,** is a nation located in northwestern [[Altinin|Altinin.]] People from Ralaaxir are known as the *Ralaaxish*.

@@ -2,7 +2,7 @@ The **Thousand Days' War,** also known as the **[[Calamity]] War,** the **Great 
 
 The conflict began with the landing of humankind on [[Ryu-ike]] and [[Altinin]] and their subsequent conquest across the [[The Meridian|Meridian.]]
 
-Humans suddenly declared war on the world, beginning a conquest across the Meridian. Given their unique ability to innovate, by this point in time mankind had developed technology reminiscent of that of their [[Earth|origin planet.]]
+Humankind suddenly declared war on the world. Given their unique ability to innovate, by this point in time mankind had developed technology reminiscent of that of their [[Earth|origin planet.]]
 
 The Thousand Days War ended with the formation of the Pantheon Coalition and subsequent sealing of the [[Splitlock]] and annihilation of its keys. Following the war, human-occupied territory was split among the Pantheon Coalition's war council.
 

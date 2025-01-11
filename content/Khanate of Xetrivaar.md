@@ -1,0 +1,1 @@
+The **Khanate of Xetrivaar,** known coloquially as **Xetrivaar,** is a nation located within the prairielands of central [[Altinin|Altinin.]] Xetrivaar is known for their many tribal and nomadic cultures that wander the prairie, united under a central chiefdom lead by their **Khan.** Folk from Xetrivaar are known as *Xetri.*
