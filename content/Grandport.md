@@ -1,0 +1,1 @@
+**Grandport** is a vast [[Fleet Alliance of Latreia|Latreian]] port city in northern [[Altinin|Altinin.]] Grandport is the capital city of the Fleet Alliance, home of the First [[Kaiids of Latreia|kaiid,]] known for its prominence in global trade and location within the [[Dragon Strait|Dragon Strait.]]

@@ -1,0 +1,3 @@
+Atlaax (meaning "Land of All Dragons" in [[Prime Draconic (Language)|Prime Draconic]]) is a planet in certain [[Atlaaxian System|solar system.]] A majority of the planet's surface, at an angle of about 273 degrees from the poles, is shrouded in a maddening [[Shroud|darkness]] that makes travel impossible. The remaining area has been named the [[The Meridian|Meridian.]]
+
+Atlaax orbits two [[Twin Suns|suns]], and is the closest to them of three planets in the system. The other two planets are gas supergiants, known as the [[Greatmoons]] for their prominence in the night sky.

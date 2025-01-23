@@ -1,1 +1,1 @@
-The **Federation of Calevaan,** known coloquially as **Calevaan,** is a nation located within the south-central forests and steppelands of [[Altinin|Altinin.]] Calevaan is known for being the seate People from Calevaan are known as *Calevanians*.
+The **Federation of Calevaan,** known coloquially as **Calevaan,** is a nation located within the south-central forests and steppelands of [[Altinin|Altinin.]] Calevaan is known for being the seat of power of the [[Church of Chains|Church of Chains.]] People from Calevaan are known as *Calevanians*.

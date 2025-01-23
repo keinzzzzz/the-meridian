@@ -1,1 +1,1 @@
-**Earth** was one of the [[D&D/Keinz World/Info for Players/Primeworld|primeworlds]] that predated the [[Great Fusion]] and the [[Timeline of Atlaax|Ages.]]
+**Earth** was one of the [[D&D/Keinz World/Info for Players/Primeworld|primeworlds]] that predated the [[Great Fusion]] and the [[Ages|Ages.]]

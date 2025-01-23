@@ -1,5 +1,9 @@
+---
+aliases:
+  - Prime Draconic
+---
 # Introduction
-Prime Draconic is considered the oldest surviving language across the [[Atlaax|planet,]] dating back [[Pre-Fusion Age|tens of thousands of years]] to the time of [[Dragons|intelligent dragons]]. The planet’s name, as well as the names of the [[Greatmoons|greatmoons]] and [[Twin Suns|suns,]] have remained unchanged from their Prime Draconic origins.
+Prime Draconic is considered the oldest surviving language across the [[Atlaax|planet,]] dating back [[Pre-Fusion Age|tens of thousands of years]] to the time of intelligent [[Dragons|dragons.]] The planet’s name, as well as the names of the [[Greatmoons|greatmoons]] and [[Twin Suns|suns,]] have remained unchanged from their Prime Draconic origins.
 
 # Written Language & Applications
 Scholars across the [[The Meridian|Meridian]] believe dragons may have utilized two different alphabets: a series of runes used for magical purposes, and a script used for common writing. This distinction was probably important to their culture, as Prime Draconic runes have magical properties inherent to their shapes to this day.

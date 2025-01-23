@@ -1,10 +1,11 @@
 ---
 aliases: []
 ---
-## Planet Atlaax
-[[Atlaax]] (meaning "all as one" in [[Prime Draconic (Language)|Prime Draconic]]) is the name of the planet on which the [[The Meridian|Meridian]] resides and my various campaigns take place. 
 
-## The Atlaaxian System
+
+# The Atlaaxian System
+### Planet Atlaax
+[[Atlaax]] is the name of the planet on which the [[The Meridian|Meridian]] resides.
 ### Suns
 The Atlaaxian system is a binary system possessing [[Twin Suns|two suns]], with the planet itself being in a circumbinary orbit around their center of mass (for your purposes, think of Tatooine from Star Wars). 
 ![[Pasted image 20241119135959.png]]
@@ -13,9 +14,7 @@ The two stars are a red dwarf and white dwarf, respectively, that orbit about th
 Atlaax itself is in an orbit much closer to its star than Earth, as dwarf stars are much cooler and thus the habitable zone is much closer. Still, the suns always appear very close together in the sky.
 
 ### The Greatmoons
-The system also possess two notable planets, a [[Greatmoons|pair of gas giants]] named **Xurkaali**  ("shadow daughter" in Prime Draconic) and **Xalkaali** ("green daughter" in Prime Draconic). These planets orbit further from the suns than Atlaax, and have historically been incorrectly named as moons of the planet due to their prominence in the night sky. Thus, they became known as **greatmoons.**
-
-The greatmoons appear slightly larger on average than [[Earth|Earth's]] Moon did at night, but are always changing size as Atlaax completes its orbit. At its closest approach, Xalkaali appears roughly the size of a tennis ball held at arm's length. At its furthest approach, it appears no different from planets in the Solar System do on Earth; like stars. 
+The system also possess two notable planets, a [[Greatmoons|pair of gas giants]] named **Xurkaali**  and **Xalkaali**. These planets orbit further from the suns than Atlaax, and have historically been incorrectly named as moons of the planet due to their prominence in the night sky. Thus, they became known as **greatmoons.**
 
 Colloquially, their names are often shorted to "Xur" and "Xal," or they are simply called the "dark moon" and "green moon" respectively.
 

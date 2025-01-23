@@ -7,7 +7,7 @@ The **Meridian** is a region of habitable land that extends from pole to pole on
 
 The continent to the northwest, [[Altinin]] (or simply the Northern Continent), is a shattered continent of high mountains, rolling hills, desert valleys, tropics, mesas, taigas, and glacial plains. The continent to the southeast, [[Ryu-ike]] (or simply the Southern Continent), is a lush continent of towering forests, plains, steppes, jungles, savannahs, rainforests, badlands, and volcanic deserts. To the east and west of the Meridian is a thick wall of swirling [[Shroud|magical darkness]] that prevents lateral travel.
 
-The Meridian is a place of incredibly rich history spanning several thousand years, split into [[Timeline of Atlaax|Ages]] whose ends each caused some form of global chaos, as foreseen by the [[Three Seers|Three Seers.]] These destructive events are known as [[Calamity|Calamities.]] 
+The Meridian is a place of incredibly rich history spanning several thousand years, split into [[Ages|Ages]] whose ends each caused some form of global chaos, as foreseen by the [[Three Seers|Three Seers.]] These destructive events are known as [[Calamity|Calamities.]] 
 
 The land itself can be characterized by this rich history of destruction, particularly the [[Great Fusion|first Calamity:]] humble farmsteads might collect around the crumbling ruins of an old-Age city; fishing villages may sit in the skeletal maw of some long-extinct colossus; societies may be structured using academic foundations stolen from ancient scholars. 
 

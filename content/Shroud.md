@@ -1,3 +1,8 @@
+---
+aliases:
+  - shadow
+  - darkness
+---
 The **Shroud** is a thick, writhing mass of shadow that engulfs planet [[Atlaax]] everywhere except for the [[The Meridian|Meridian,]] where it seemingly is unable to penetrate. It has seemingly existed since end of [[Age of Gold|third Age,]] with its formation being attributed to the [[Calamity]] that ended it.
 
 Little is known about the nature of the magic that facilitates the Shroud, and nearly all attempts to study it or explore the shadowed regions end in tragedy. Much superstition, regardless of culture, exists regarding the strange darkness. Sailors whisper legends of entire fleets devoured by shadows, of ghost ships emerging with their crews missing, or of terrible beasts diving in and out of the Shroud. 
