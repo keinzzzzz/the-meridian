@@ -25,7 +25,7 @@ Spoken Prime Draconic consists of sounds that may have been trivial for dragons 
 * -inin - Claw
 * -ax - Dragon 
 * Alt- - Dragon 
-* At - All/Everything/World
+* At - All/World
 
 ### Colors
 * Xur - Black

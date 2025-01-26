@@ -1,0 +1,1 @@
+The **Pact of the Pantheon** is a divine contract that established the [[Helixite Orthodoxy]] and acted as an armistice that held up the [[Age of Peace]] for almost six hundred years—until it was broken by the [[High Empire of Avalan|High Empire of Avalan.]]

@@ -6,19 +6,21 @@ The following notes are listed by how much your average Joseph Gordon in my worl
 ### General Information
 You've likely known this information since childhood.
 * [[Atlaax]]
+	* [[Atlaax]]
 	* [[Atlaaxian System]]
 * [[The Meridian]]
 	* [[Altinin]]
+	* [[Meridian Standard Calendar]]
 * [[Calamity]]
 	* [[Great Fusion]]
 	* [[Thousand Days' War]]
 		* [[Splitlock]]
 ### Specific Information
-Depending on your birthplace, age, or worldliness, you may be studied on this information but will at least have heard of it.
-* [[Prime Draconic (Language)]] (known by most spellcasters)
+Depending on your birthplace, age, or worldliness, you may be studied on this information, but will at least have heard of it.
 * [[Primeworld]]
 	* [[Earth]]
 * [[Shroud]]
+* [[Prime Draconic (Language)]] (known by most spellcasters)
 * [[Evernight]]
 
 Any linked notes not listed in this index can be considered supplemental: unnecessary to know but cool to know.
