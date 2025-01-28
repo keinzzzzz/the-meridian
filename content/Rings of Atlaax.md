@@ -1,1 +1,1 @@
-The **Rings of Atlaax** are a band of ice and dust that wrap [[Atlaax]] along its equator. While the rings are particularly wide, they are extremely thick, which has a great effect on the planet's climate due to the [[Ringshadow|shadows]] they cast.
+The **Rings of Atlaax** are a band of ice and dust that wrap [[Atlaax]] along its equator. While the rings are not particularly wide, they are extremely thick, which has a great effect on the planet's climate due to the [[Ringshadow|shadows]] they cast.
