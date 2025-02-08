@@ -14,7 +14,7 @@ The *Official Schedule* is the default time we have agreed to play each week. He
 
 ### When, Where, How Often, How Long?
 
-- Game sessions will be held on X, from 6:30 to 9:30 PM.
+- Game sessions will be held on Fridays, from 3:30 to 6:30 PM.
     
 - We will hold games using Discord and Foundry.
     
@@ -25,7 +25,7 @@ The *Official Schedule* is the default time we have agreed to play each week. He
 
 ### Timing
 
-- Show-up time is 6:15, game-start time is 6:30. I expect you to be in the call at show-up time, take 15 minutes to yap, and be ready and on Foundry by start-time. Regardless of if you’re ready, I will be starting.
+- Show-up time is 3:20, game-start time is 3:35 PM. I expect you to be in the call at show-up time, take 15 minutes to yap, and be ready and on Foundry by start-time. Regardless of if you’re ready, I will be starting.
     
 
 ## What Will Cancel a Session?

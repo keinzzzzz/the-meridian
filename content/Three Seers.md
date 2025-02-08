@@ -1,4 +1,4 @@
-The **Three Seers** are three notable people known throughout the [[The Meridian|Meridian.]] Seers are born with special [[Souleyes|eyes]] that grant them the ability to see souls and even receive visions of the future. 
+The **Three Seers** are three notable people known throughout the [[The Meridian|Meridian.]] Seers are born with special [[Souleyes|eyes]] that grant them the ability to perceive—and even manipulate—fate itself.
 
 The Seers are the main pillar of [[Helixism|Helixism,]] which claims them to be prophets that guide the [[The Meridian|Meridian]] through the [[Ages|Ages,]] preventing the world from succumbing to [[Calamity|Calamity.]]
 
