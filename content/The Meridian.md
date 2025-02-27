@@ -9,7 +9,7 @@ The continent to the northwest, [[Altinin]] (or simply the Northern Continent), 
 
 The Meridian is a place of incredibly rich history spanning several thousand years, split into [[Ages|Ages]] whose ends each caused some form of global chaos, as foreseen by the [[Three Seers|Three Seers.]] These destructive events are known as [[Calamity|Calamities.]] 
 
-The land itself can be characterized by this rich history of destruction, particularly the [[Great Fusion|first Calamity:]] humble farmsteads might collect around the crumbling ruins of an old-Age city; fishing villages may sit in the skeletal maw of some long-extinct colossus; societies may be structured using academic foundations stolen from ancient scholars. 
+The land itself can be characterized by this rich history of destruction: humble farmsteads might collect around the crumbling ruins of an old-Age city; fishing villages may sit in the skeletal maw of some long-extinct colossus; societies may be structured using academic foundations stolen from ancient scholars. 
 
 Beyond major settlements, the Meridian is a chaotic land of both incredible beauty and terrible danger. Travelers consider the viscera of forgotten technologies, the corpses of empires, and the battlegrounds of gods common landmarks. All sorts of vagabonds, scavengers, and adventurers can be found wandering the shattered countryside in search of the Ages' many undiscovered rewards. 
 
