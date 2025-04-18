@@ -14,7 +14,9 @@ Spells involving written elements will most certainly take advantage of the lang
 
 # Spoken Language
 
-Spoken Prime Draconic consists of sounds that may have been trivial for dragons to pronounce, but have proven difficult to pronounce for humanoids. The language makes frequent use of guttural consonants, extended double-vowels, and the z-sound "x" (like in "xylophone"). Many place-names across [[Atlaax]] are partially derived from this language. The following lists some prefixes, suffixes, and basic concepts' names within the language.
+Spoken Prime Draconic consists of sounds that may have been trivial for dragons to pronounce, but have proven difficult to pronounce for humanoids. The language makes frequent use of guttural consonants, extended double-vowels, and the z-sound "x" (like in "xylophone"). Many place-names across [[Atlaax]] are partially derived from this language. 
+
+The following lists some prefixes, suffixes, and names of concepts within the language:
 ### Prefixes & Suffixes
 * -kaali - Daughter
 * -kaalo - Son

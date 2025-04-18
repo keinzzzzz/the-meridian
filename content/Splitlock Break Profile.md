@@ -5,7 +5,6 @@ The mood of your campaign. How does it FEEL to play in this campaign
 - I want my campaign to feel adventurous and somewhat lighthearted, but with dark moments (cosmic horrors❤) and emotional moments littered throughout to keep it feeling grounded (a vibe like Avatar TLA). I also want to inspire a sense of scale and grandness; I want my players to get the feeling their characters are small—but significant—actors on a humongous stage.
     
 - Maybe the tone will shift from adventurous—>serious as the campaign goes on and the stakes rise (Fullmetal Alchemist does this).
-    
 
 ## Concept
 

@@ -5,9 +5,8 @@ The following notes are listed by how much your average Joseph Gordon in my worl
 ---
 ### General Information
 You've likely known this information since childhood.
-* [[Atlaax]]
+* [[Atlaaxian System]]
 	* [[Atlaax]]
-	* [[Atlaaxian System]]
 * [[The Meridian]]
 	* [[Altinin]]
 	* [[Meridian Standard Calendar]]

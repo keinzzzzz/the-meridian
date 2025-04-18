@@ -46,7 +46,7 @@ The planet has only four degrees of axial tilt compared Earth's 24, and therefor
 ![[ellipitic-orbit 1.png]]
 Because of this, seasons are experienced equally by both hemispheres, with global summers occurring at the closest points of the orbit, and global winters at the farthest point. 
 # Cold at the Equator, Hot Elsewhere
-Because of the rings' shadow on the planet, there are periods in the morning and evening all across the planet when the suns are obscured by the rings. The effect here is similar to window-tint in a car; the suns would still be visible, just dimmer. Although subtle, this daily blockage causes the planet's climate to be more extreme on average than Earth's.
+Because of the [[Ringshadow|ringshadow]] cast on the planet, there are periods in the morning and evening all across the planet when the suns are obscured by the rings. The effect here is similar to window-tint in a car; the suns would still be visible, just dimmer. Although subtle, this daily blockage causes the planet's climate to be more extreme on average than Earth's.
 
 Due to axial tilt and the rings being dead-on at the equator, there are also times of the year where the equatorial regions of the planet are bathed in a [[Evernight|constant night]] due to the rings blocking sunlight there. Thus, the equatorial regions on Atlaax are bitterly cold for most of the year, while the areas between the ringshadow and poles are warmed by sunlight reflected off the rings.
 
